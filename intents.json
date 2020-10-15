@@ -79,6 +79,37 @@
           "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
           "What did the buffalo say when his son left for college? Bison."
         ]
+      },
+      {
+        "tag": "Characters",
+        "patterns": [
+          "Who are the characters?",
+          "Who are the main character?",
+          "Who is in the crew?"
+        ],
+        "responses": [
+          "The characters are Kaz, Inej, Matthis, Nina, Wylan, Jesper."
+        ]
+      },
+      {
+        "tag": "Kaz",
+        "patterns": [
+          "Who is Kaz?",
+          "Who is Kaz Brekker?"
+        ],
+        "responses": [
+          "Kaz Brekker or the Bastard of the Barrel one of the main character in the series. He is know around the Barrel for is reputation was being ruthless and unforgiving. He does; however, have a soft spot for Inej, and the rest of the crew."
+        ]
+      },
+      {
+        "tag": "Inej",
+        "patterns": [
+          "Who is Inej?",
+          "Who is Inej Ghafa?"
+        ],
+        "responses": [
+          "test"
+        ]
       }
     ]
   }
