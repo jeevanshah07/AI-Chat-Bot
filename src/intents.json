@@ -172,7 +172,51 @@
           "Who is Pekka Rollins"
         ],
         "responses": [
-          "Ketterdamn is the worlds trade center. Here the main language spoken is Kerch or language of Trade. In Kerch the highest ranking member of society are the merchant counsel. On the Merchant Counsel is Jan Van Eck, Wlyan Van Ecks father, and one of the main antagonists of the first book."
+          "Pekka Rollins is what you might call the big baddie. He is behind many things that cause the crew issues, and is the reason that Kaz's brother Jordie dies.(Things mentioned: Kaz Brekker, Jordie Brekker)"
+        ]
+      },
+      {
+        "tag": "Help",
+        "patterns": [
+          "help",
+          "I need help", 
+          "Please help me", 
+          "Can I get some help?"
+        ],
+        "responses": [
+          "Ask me about the characters, the plot, the conflict or the setting to get started!"
+        ]
+      },
+      {
+        "tag": "Setting",
+        "patterns": [
+          "What is the setting?",
+          "Where does the story take place?",
+          "What is the setting of the book?",
+          "What is the main setting of Six of Crows?"
+        ],
+        "responses": [
+          "Six of Crows has two main settings: Ketterdamn and Fjerda.(Things mentioned: Ketterdamn, Fjerda)"
+        ]
+      },
+      {
+        "tag": "Fjerda",
+        "patterns": [
+          "What is fjerda?",
+          "Where is matthias from?"
+        ],
+        "responses": [
+          "Fjerda is the home of the Ice Court. This is the place that is thought impenatrable that the crew is tasked with breaking into. Fjerda is also home of Matthias and the Drüskelle.(Things mentioned: Ice Court, Fjerda, Matthias, Drüskelle)" 
+        ]
+      },
+      {
+        "tag": "Drüskelle",
+        "patterns": [
+          "What are Drüskelle?",
+          "What is the Drüskelle group?"
+        ],
+        "responses": [
+          "The Drüskelle are Fjerdian men whose job is to hunt down and kill Grisha. This is also how Matthias met Nina. (Things mentioned: Fjerda, Grisha, Matthias Hevlar, Nina Zenik)" 
         ]
       }
     ]
