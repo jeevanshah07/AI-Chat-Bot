@@ -28,7 +28,7 @@
       },
       {
         "tag": "thanks",
-        "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+        "patterns": ["Thanks", "Thank you", "That's helpful", "Thanks a lot!"],
         "responses": ["Happy to help!", "Any time!", "My pleasure"]
       },
       {
@@ -78,6 +78,101 @@
         "responses": [
           "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
           "What did the buffalo say when his son left for college? Bison."
+        ]
+      },
+      {
+        "tag": "Characters",
+        "patterns": [
+          "Who are the characters?",
+          "Who are the main character?",
+          "Who is in the crew?"
+        ],
+        "responses": [
+          "The characters are Kaz, Inej, Matthis, Nina, Wylan, Jesper. Ask me about each character to learn more about them!"
+        ]
+      },
+      {
+        "tag": "Kaz",
+        "patterns": [
+          "Who is Kaz?",
+          "Who is Kaz Brekker?"
+        ],
+        "responses": [
+          "Kaz Brekker or the Bastard of the Barrel one of the main character in the series. He is know around the Barrel for is reputation was being ruthless and unforgiving. He does; however, have a soft spot the crew. Although at times it may not seem like it, Kaz loves Inej. (Things mentioned: Inej Ghafa, The barrel)"
+        ]
+      },
+      {
+        "tag": "Inej",
+        "patterns": [
+          "Who is Inej?",
+          "Who is Inej Ghafa?"
+        ],
+        "responses": [
+          "Inej Ghafa or wraith is also one of the main characters. She is known for being able to slip in locations and places without being noticed. She is Kaz's right hand women, and is in love with Kaz.(Things mentioned: Kaz Brekker)"
+        ]
+      },
+      {
+        "tag": "Matthis",
+        "patterns": [
+          "Who is Matthis?",
+          "Who is Matthis Hevlar?"
+        ],
+        "responses": [
+          "Matthis is the groups bruiser, after being thrown into the Hellgate Prison Matthis came out hardened and with a wish of revenge for the person who put him in there: Nina Zenik. Before he was in Hellgate he was a Drüskelle, a Fjerdain warrior who is tasked with hunting and killing Grisha. Even though Nina was the one to send him to Hellgate he does eventually fall [back] in love her.(Things mentioned: Nina Zenik, Fjerdia, Grisha)"
+        ]
+      },
+      {
+        "tag": "Wylan",
+        "patterns": [
+          "Who is Wylan?",
+          "Who is Wylan Van Eck?"
+        ],
+        "responses": [
+          "Wylan was brought into the Crew by Kaz as a demolition man. Unknown to the crew at the time Wylan was the son of Jan Van Eck, the man who was going to pay then 30 million kruge; however, as time goes on Wylan proves to be more than a barganning chip for Kaz. He eventually falls for Jesper Fahey. (Things mentioned: Jesper Fahey, Kruge, Jan Van Eck.)"
+        ]
+      },
+      {
+        "tag": "Jesper",
+        "patterns": [
+          "Who is Jesper?",
+          "Who is Jesper Fahey?"
+        ],
+        "responses": [
+          "Jesper Fahey is the groups sharpshooter. He is secretly a Grisha Fabrikator. He is always craking jokes and annoying/flirting with Wylan. He his very protective of Wylan and eventually falls in love with him.(Things mentinoned: Grisha, Grisha Fabrikator, Wylan Van Eck)"
+        ]
+      },
+      {
+        "tag": "Barrel",
+        "patterns": [
+          "What is the barrel?",
+          "Where is the barrel.",
+          "Where does the bastard of the barrel come from?"
+        ],
+        "responses": [
+          "The barrel is Ketterdamns place full of dark alleyways. Housed in the barrel you can find people like the Kaz Brekker, or Pekka Rollins. There are also quite a few place to entertain your self for a night. The barrel houses some of the darkest, creepiest, and most powerful creatures in the world.(Things mentioned: Kaz Brekker, Pekka Rollins, Ketterdamn.)"
+        ]
+      },
+      {
+        "tag": "Ketterdamn",
+        "patterns": [
+          "What is Ketterdamn?", 
+          "Where do the character start off?",
+          "What city is the barrel in?",
+          "Where does Kaz live?",
+          "Where does the group live?"
+        ],
+        "responses": [
+          "Ketterdamn is the worlds trade center. Here the main language spoken is Kerch or language of Trade. In Kerch the highest ranking member of society are the merchant counsel. On the Merchant Counsel is Jan Van Eck, Wlyan Van Ecks father, and one of the main antagonists of the first book."
+        ]
+      },
+      {
+        "tag": "Pekka Rollins",
+        "patterns": [
+          "Who is Pekka?",
+          "Who is Pekka Rollins"
+        ],
+        "responses": [
+          "Ketterdamn is the worlds trade center. Here the main language spoken is Kerch or language of Trade. In Kerch the highest ranking member of society are the merchant counsel. On the Merchant Counsel is Jan Van Eck, Wlyan Van Ecks father, and one of the main antagonists of the first book."
         ]
       }
     ]
