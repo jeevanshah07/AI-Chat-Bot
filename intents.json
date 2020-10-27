@@ -28,7 +28,7 @@
       },
       {
         "tag": "thanks",
-        "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+        "patterns": ["Thanks", "Thank you", "That's helpful", "Thanks a lot!"],
         "responses": ["Happy to help!", "Any time!", "My pleasure"]
       },
       {
@@ -144,10 +144,35 @@
       {
         "tag": "Barrel",
         "patterns": [
-          "What is the barrel?"
+          "What is the barrel?",
+          "Where is the barrel.",
+          "Where does the bastard of the barrel come from?"
         ],
         "responses": [
-          "Matthis is the groups bruiser, after being thrown into the Hellgate Prison Matthis came out hardened and with a wish of revenge for the person who put him in there: Nina Zenik. Before he was in Hellgate he was a Drüskelle, a Fjerdain warrior who is tasked with hunting and killing Grisha. Even though Nina was the one to send him to Hellgate he does eventually fall [back] in love her.(Things mentioned: Nina Zenik, Fjerdia, Grisha)"
+          "The barrel is Ketterdamns place full of dark alleyways. Housed in the barrel you can find people like the Kaz Brekker, or Pekka Rollins. There are also quite a few place to entertain your self for a night. The barrel houses some of the darkest, creepiest, and most powerful creatures in the world.(Things mentioned: Kaz Brekker, Pekka Rollins, Ketterdamn.)"
+        ]
+      },
+      {
+        "tag": "Ketterdamn",
+        "patterns": [
+          "What is Ketterdamn?", 
+          "Where do the character start off?",
+          "What city is the barrel in?",
+          "Where does Kaz live?",
+          "Where does the group live?"
+        ],
+        "responses": [
+          "Ketterdamn is the worlds trade center. Here the main language spoken is Kerch or language of Trade. In Kerch the highest ranking member of society are the merchant counsel. On the Merchant Counsel is Jan Van Eck, Wlyan Van Ecks father, and one of the main antagonists of the first book."
+        ]
+      },
+      {
+        "tag": "Pekka Rollins",
+        "patterns": [
+          "Who is Pekka?",
+          "Who is Pekka Rollins"
+        ],
+        "responses": [
+          "Ketterdamn is the worlds trade center. Here the main language spoken is Kerch or language of Trade. In Kerch the highest ranking member of society are the merchant counsel. On the Merchant Counsel is Jan Van Eck, Wlyan Van Ecks father, and one of the main antagonists of the first book."
         ]
       }
     ]
