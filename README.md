@@ -8,5 +8,5 @@ A Chat Bot powered by a Neural Network helps it choose how to respond.
 
     2a. It is currently set to train for 1500 epochs, you can increase or decrease this number based on your computers specs.
     
-        2b. I personally had issues training it on my gpu, so it is set to run on you cpu. You can change this by uncommenting out line 69 in `train.py` and line 7 in `chat.py`. Make sure to comment the other statemtent (Line 70 in `train.py` and line 9 in `chat.py`). Also make sure that both files are consistent. If one file is using gpu and the other is cpu then you will catch an error.
+      2b. I personally had issues training it on my gpu, so it is set to run on you cpu. You can change this by uncommenting out line 69 in `train.py` and line 7 in `chat.py`. Make sure to comment the other statemtent (Line 70 in `train.py` and line 9 in `chat.py`). Also make sure that both files are consistent. If one file is using gpu and the other is cpu then you will catch an error.
 3. Run `chat.py` to interact with the bot!
