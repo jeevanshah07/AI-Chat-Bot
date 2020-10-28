@@ -1,0 +1,5 @@
+1. When cloning to turn in, change .gitpod.yml to:
+    - before: pip3 install torch numpy nltk
+      init: python download.py
+      command: python chat.py 
+2. Move files out of src so the need for moving directories is lost.
