@@ -2,7 +2,6 @@ image:
   file: .gitpod.Dockerfile
 
 tasks:
-  - before: pip3 install torch numpy nltk 
-    init: python download.py
-    command: python chat.py
+  - init: pip3 install torch numpy nltk 
+    command: python download.py
 
