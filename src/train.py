@@ -60,7 +60,7 @@ hidden_size = 8
 output_size = len(tags)
 input_size = len(x_train[0])
 learning_rate = 0.001
-num_epochs = 1500
+num_epochs = 1250
 
 
 dataset = ChatDataset()
