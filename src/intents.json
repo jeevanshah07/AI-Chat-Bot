@@ -210,7 +210,39 @@
           "What are Grisha Fabrikators?"
         ],
         "responses": [
-          "Grisha are manipulators of the small science. They can be Corparalki, Materialki, or Etherealki. Corparalki are the order of the living and the dead. Materialki are the order of the fabrikators."
+          "Grisha are manipulators of the small science. They can be Corparalki, Materialki, or Etherealki. Corparalki are the order of the living and the dead. Materialki are the order of the fabrikators. Etherealki are the order of summoners."
+        ]
+      },
+      {
+        "tag": "Juda Parem",
+        "patterns": [
+          "What is juda parem?"
+        ],
+        "responses": [
+          "Juda Parem is the adictive drug that was created by Bo Yul-Bayer. It changes a grisha's perception of the world, and simulates their power to unbeliveable levels.(Things mentioned: Grisha, Bo Yul-Bayer)"
+        ]
+      },
+      {
+        "tag": "Jan Van Eck",
+        "patterns": [
+          "Who is Jan Van Eck?", 
+          "Who is Wylans father?", 
+          "Who is giving Kaz's crew 30 million kruge?"
+        ],
+        "responses": [
+          "Jan Van Eck is Wylan Van Eck's father. He also holds a posotion on the Trade Council in Ketterdamn. Jan Van Eck was the person who sent the dregs (Kaz's crew) on their mission to break into the Ice Court. He is also the person who promised them 30 million kruge.(Things mentioned: Wylan Van Eck, kruge)"
+        ]
+      },
+      {
+        "tag": "About",
+        "patterns": [
+          "About the story.", 
+          "Who is the author?", 
+          "When was it published?", 
+          "Who published the book?"
+        ],
+        "responses": [
+          "Here are some facts about the book: \n1. The author is Leigh Bardugo. \n2. Six of Crows was published September 25, 2015.\n3.The book is published by Henery Holt and Co.\n4.This takes place in the same world as the Grisha trilogy which follows Alina Starkov and is also written by Lieght Bardugo.\n5.There is a netflix show coming out that will be a combination of the Grisha Trilogy and the Six of Crows Duology.\n6.There is a sequal book Crooked Kingdom. There will be a 3rd book but it is many years away."
         ]
       }
     ]
