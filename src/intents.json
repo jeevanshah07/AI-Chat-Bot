@@ -153,6 +153,17 @@
         ]
       },
       {
+        "tag": "Nina Zenik",
+        "patterns": [
+          "Who is Nina?",
+          "Who is Nina Zenik?",
+          "Who is Matthias dating?"
+        ],
+        "responses": [
+          "Nina Zenik was a Grisha heartrender for the Second Army from Ravaka before she was captured by Matthias. Once her and Matthias made it to Ketterdamn she sent Matthias to hellgate fro being a slaver so that the other grisha in Ketterdamn wouldn't kill him. After sending Matthias to hellgate she joined the Dregs, or Kaz's crew. (Things mentioned: Kaz Brekker, Matthias Hevlar, Grisha, Grisha Heartrender)"
+        ]
+      },
+      {
         "tag": "Ketterdamn",
         "patterns": [
           "What is Ketterdamn?", 
@@ -162,7 +173,7 @@
           "Where does the group live?"
         ],
         "responses": [
-          "Ketterdamn is the worlds trade center. Here the main language spoken is Kerch or language of Trade. In Kerch the highest ranking member of society are the merchant counsel. On the Merchant Counsel is Jan Van Eck, Wlyan Van Ecks father, and one of the main antagonists of the first book."
+          "Ketterdamn is the worlds trade center. Here the main language spoken is Kerch or language of Trade. In Kerch the highest ranking member of society are the merchant counsel. On the Merchant Counsel is Jan Van Eck, Wlyan Van Ecks father, and one of the main antagonists of the first book.(Things mentioned: Jan Van Eck, Wylan Van Eck)"
         ]
       },
       {
@@ -217,6 +228,38 @@
         ],
         "responses": [
           "The Drüskelle are Fjerdian men whose job is to hunt down and kill Grisha. This is also how Matthias met Nina. (Things mentioned: Fjerda, Grisha, Matthias Hevlar, Nina Zenik)" 
+        ]
+      },
+      {
+        "tag": "conflict",
+        "patterns": [
+          "What is the conflict?", 
+          "What is the main issue of the story?"
+        ],
+        "responses": [
+          "The main conflict of the story is a daring heist. Our protagonists are tasked to break into the Ice Court, one of the most secure places on the planet, and steal the scientest who created juda parem, the grisha enchancing drug. If they can pull off the job they are promised 30 million kruge by Jan Van Eck. (Things mentioned: Ice Court, Juda Parem, Kruge, Jan Van Eck)"
+        ]
+      },
+      {
+        "tag": "Kruge",
+        "patterns": [
+          "What is Kruge?",
+          "What is the main currency?"
+        ],
+        "responses": [
+          "The main currency of Ketterdamn is kruge. It is about 10 USD."
+        ]
+      },
+      {
+        "tag": "Grisha",
+        "patterns": [
+          "What are Grisha?",
+          "Who is in the Second Army?", 
+          "What are are Grisha Heartrenders?", 
+          "What are Grisha Fabrikators?"
+        ],
+        "responses": [
+          "Grisha are manipulators of the small science. They can be Corparalki, Materialki, or Etherealki. Corparalki are the order of the living and the dead. Materialki are the order of the fabrikators."
         ]
       }
     ]
